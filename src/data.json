@@ -465,7 +465,7 @@
       {
         "depatureAt": "2022-12-12T12:30:00",
         "arriveAt": "2022-12-12T14:00:00",
-        "avaliableSeats": 11,
+        "avaliableSeats": 10,
         "prices": [
           {
             "currency": "SEK",
